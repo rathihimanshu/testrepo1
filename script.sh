@@ -1,3 +1,3 @@
 #!/bin/bash
-echo hello
+echo hello1
 echo test >> newfile.txt
